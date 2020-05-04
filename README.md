@@ -1,2 +1,2 @@
-# python-practice
+# Data Structures
 Learning python
